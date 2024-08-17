@@ -1,0 +1,25 @@
+{
+  "name": "yukliu",
+  "version": "1.0.0",
+  "description": "static file",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LYK1013/npm.git"
+  },
+  "keywords": [
+    "static"
+  ],
+  "author": "yukliu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LYK1013/npm/issues"
+  },
+  "homepage": "https://github.com/LYK1013/npm#readme"
+}
